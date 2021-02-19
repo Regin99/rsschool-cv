@@ -1,0 +1,11 @@
+.header {
+  text-align: center;
+  font-family: "Newsreader", serif;
+}
+.main {
+  margin: auto;
+  font-family: "Newsreader", serif;
+}
+ul {
+  border-bottom: 2px solid black;
+}
