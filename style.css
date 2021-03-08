@@ -60,7 +60,7 @@ section {
   margin-left: 40px;
   font-family: "Shippori Mincho B1", serif;
 }
-section h1 {
+section h2 {
   font-size: 32px;
 }
 section p {
@@ -73,7 +73,7 @@ main {
   margin-left: 40px;
   font-family: "Shippori Mincho B1", serif;
 }
-main h1 {
+main h2 {
   margin-top: -3px;
 }
 main ul {
